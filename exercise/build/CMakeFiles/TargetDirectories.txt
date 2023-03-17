@@ -1,0 +1,3 @@
+/Users/roja/myspace/c++/exercise/build/CMakeFiles/hello.dir
+/Users/roja/myspace/c++/exercise/build/CMakeFiles/edit_cache.dir
+/Users/roja/myspace/c++/exercise/build/CMakeFiles/rebuild_cache.dir
